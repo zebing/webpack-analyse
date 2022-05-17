@@ -1,0 +1,25 @@
+{
+  "name": "webpack-analyse",
+  "version": "1.0.0",
+  "description": "webpack 打包工具技术揭秘",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "sh build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zebing/webpack-analyse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zebing/webpack-analyse/issues"
+  },
+  "homepage": "https://github.com/zebing/webpack-analyse#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
